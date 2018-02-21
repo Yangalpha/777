@@ -1,7 +1,7 @@
 #!/bin/bash
 
-ALBUMID="8012534"
-RSSFILE="kdyxmly.xml"
+ALBUMID="8125936"
+RSSFILE="bdyk.xml"
 # export PBUUID=""
 ./ximalaya_linux_amd64 $ALBUMID > $RSSFILE
 ls
